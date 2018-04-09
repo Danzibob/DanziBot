@@ -1,0 +1,5 @@
+[discord]
+    # Get this from your discord developer page
+    token = ""
+    # Get this from the context menu of your discord server
+    serverID = ""
